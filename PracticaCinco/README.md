@@ -77,3 +77,4 @@ También puedes arrastrar la carpeta del proyecto al área de despliegue manual 
 - Conserva evidencia de la medición inicial y final.
 
 Lee `GUIA_PRACTICA.md` antes de modificar el proyecto y usa `AUDITORIA.md` como bitácora de resultados.
+Nueva linea para VERCEL
